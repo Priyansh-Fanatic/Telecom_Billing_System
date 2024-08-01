@@ -221,6 +221,7 @@ int main() {
             delete_rec();
             break;
         case 6:
+            printf("Goodbye!!");
             return 0;
         default:
             printf("Invalid choice!!!\n");
